@@ -21,7 +21,7 @@ public class SpringServiceImpl implements SpringService {
 	
 	@Override
 	public String mostrarNombreEmpresa() {
-		return "Anotaciones con Spring y JSF";
+		return "GOCA - Anotaciones con Spring y JSF";
 	}
 
 	@Override

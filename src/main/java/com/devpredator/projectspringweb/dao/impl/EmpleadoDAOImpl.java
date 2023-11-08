@@ -16,7 +16,7 @@ public class EmpleadoDAOImpl implements EmpleadoDAO {
 
 	@Override
 	public String consultarNombreEmpleado() {
-		return "Diego Paniagua Lopez";
+		return "Diego Paniagua Lopez - GOCA";
 	}
 
 }
